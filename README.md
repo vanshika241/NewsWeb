@@ -4,11 +4,6 @@ NewsWeb is a responsive news website that fetches real-time headlines by categor
 
 ---
 
-##  Screenshots  
-![NewsWeb Screenshot](Review.png) 
-
----
-
 ##  Features  
 - Fetches latest news using **NewsAPI**.  
 - Categories: All, Technology, Business, Sports, Entertainment.  
